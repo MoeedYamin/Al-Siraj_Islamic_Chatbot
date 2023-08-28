@@ -1,16 +1,5 @@
-# fyp
+# Al-Siraj
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Al-Siraj an Islamic chatbot,its a cross platform application created in flutter. At AI side, a deep learning model is used (long short term memory) that uses a self created dataset(4000 quries and 8000 questions) and generates results. Its accuracy is 99%. An api was created to give its access in the app. At application side, there are main 3 modules- Chatroom, Tasbih counter, Azan Alarm. The main module is chatroom that we send data to api and from api it shows result.
